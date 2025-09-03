@@ -1,27 +1,29 @@
-# 👋 Olá, eu sou a Luiza!
+# 💖 Olá, mundo! Eu sou a Luiza ✨
 
 🎓 Estudante do **Curso Técnico em Informática - SENAC Tatuapé**  
-💻 Aprendendo: Hardware, Arduino, Git/GitHub, IA, Windows e Linux  
-📚 Este perfil reúne meus repositórios de estudos, projetos e práticas  
+💻 Apaixonada por tecnologia, curiosa por natureza e explorando o universo da informática de forma divertida e profissional.  
+🌸 Documentando aqui minha jornada: de Hardware e Arduino até IA, Windows e Linux.  
 
 ---
 
-## 🚀 Tecnologias em aprendizado
-- 💾 Hardware & Eletrônica (Arduino)  
-- 🌐 Git & GitHub  
-- 🤖 Inteligência Artificial (IA)  
-- 🖥️ Sistemas Operacionais (Windows / Linux)  
+## 🚀 Tecnologias & Estudos
+🌼 Estou aprendendo e praticando:  
+- ⚡ **Hardware & Arduino**  
+- 🖤 **Git & GitHub**  
+- 🤖 **Inteligência Artificial (AI)**  
+- 🪟 **Windows** e 🐧 **Linux**  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+## ✨ Sobre mim
+🌷 Sempre aprendendo e me desafiando  
+📚 Construindo minha base em tecnologia  
+🌎 Sonhando alto: transformar conhecimento em impacto positivo  
 
 ---
 
-✍️ *Sempre aprendendo e documentando minha jornada na área de tecnologia.*
+ 
+
 
 
 <!--
