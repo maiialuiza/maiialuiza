@@ -1,3 +1,14 @@
+![banner](https://github.com/user-attachments/assets/5e7d8a18-de25-49f9-8280-ebffe48b9ed0)
+
+
+
+
+
+
+
+
+
+
 # 💖 Olá, mundo! Eu sou a Luiza ✨
 
 🎓 Estudante do **Curso Técnico em Informática - SENAC Tatuapé**  
